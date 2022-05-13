@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/kataras/i18n/internal"
+	"github.com/kulak/i18n/internal"
 
 	"golang.org/x/net/publicsuffix"
 	"golang.org/x/text/language"

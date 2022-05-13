@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kataras/i18n/internal"
+	"github.com/kulak/i18n/internal"
 
 	"github.com/BurntSushi/toml"
 	"gopkg.in/ini.v1"
